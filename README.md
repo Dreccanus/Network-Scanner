@@ -1,6 +1,6 @@
 
 # Network Scanner
-a basic tool to give some informations about the network and about the others devices in the same network :
+a tool to give some informations about the network and about the others devices in the same network :
 
 things like discovering ips in the network and scan them with nmap, and see if there any open ports and check if there is any misconfiguration, sniffing to see any intresting traffics
 
@@ -16,7 +16,7 @@ things like discovering ips in the network and scan them with nmap, and see if t
 
 ```python
 $pip3 install -r requirements.txt 
-$python Nscan.py
+$python N-Scanner.py
 ```
 
 
@@ -26,10 +26,6 @@ $python Nscan.py
 
 For support, join my Youtube channel.
 
-
-## Screenshots
-
-![App Screenshot](https://raw.githubusercontent.com/Dreccanus/Network-Scanner/main/images/Screenshot-1.png)
 
 
 
