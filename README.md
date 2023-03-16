@@ -29,6 +29,9 @@ $python N-Scanner.py
 For support, join my Youtube channel.
 
 
+## Screenshot
+
+![image](https://user-images.githubusercontent.com/118807753/225743313-99e2cfa3-7cb5-4040-97f1-36f53612980c.png)
 
 
 
