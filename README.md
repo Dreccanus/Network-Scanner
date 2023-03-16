@@ -29,5 +29,10 @@ For support, join my Youtube channel.
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://raw.githubusercontent.com/Dreccanus/Network-Scanner/main/images/Screenshot-1.png)
+
+
+![App Screenshot](https://raw.githubusercontent.com/Dreccanus/Network-Scanner/main/images/Screenshot-2.png)
+
+
 
