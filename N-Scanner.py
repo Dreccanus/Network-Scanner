@@ -74,7 +74,7 @@ def ports():
 # Loop over each live host and scan it for open ports
     try:
         for host in hosts:
-            scanner.scan(hosts=host, arguments="-p 1-65535")
+            scanner.scan(hosts=host, arguments="-p 1-500")
             print(f"\033[1;33mIP Address: {host}\033[0m")
             print(f"\033[1;33mOpen Ports: {list(scanner[host]['tcp'].keys())}\n\033[0m")
 
